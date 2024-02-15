@@ -1,6 +1,6 @@
-def greet(name="Friend!"):
+def task2(name="Friend!"):
   print("Hello", name)
 
-greet("Sally"+"!") 
-greet("Tshepo"+"!")
-greet()
+task2("Sally") 
+task2("Tshepo")
+task2()
